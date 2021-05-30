@@ -7,10 +7,10 @@
 ```
 ## สิ่งที่สนใจ
 ```
-- PHP
-- HTML 
-- CSS
-- JavaScript
-- Jquery
-- Ajax
+- [x] PHP
+- [x] HTML 
+- [x] CSS
+- [x] JavaScript
+- [x] Jquery
+- [x] Ajax
 ```
