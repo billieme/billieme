@@ -6,11 +6,11 @@
 อายุ : 23
 ```
 ## สิ่งที่สนใจ
-```
+
 - [x] PHP
 - [x] HTML 
 - [x] CSS
 - [x] JavaScript
 - [x] Jquery
 - [x] Ajax
-```
+
