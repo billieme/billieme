@@ -1,8 +1,8 @@
 # ฮัลโหลเวิร์ล ยินดีต้อนรับสู่ My Github.
 ## แนะนำตัว
 ```
-ชื่อ : จิรพัฒน์ มีด้วง
-ชื่อเล่น : บิล
+ชื่อ : จิรพัฒน์ มีด้วง MR.JIRAPAT MEEDOUNG
+ชื่อเล่น : บิล BILL
 อายุ : 23
 ```
 ## สิ่งที่สนใจ
@@ -13,4 +13,8 @@
 - [x] JavaScript
 - [x] Jquery
 - [x] Ajax
+
+## ติดต่อ 
+[Gmail](https://mail.google.com/mail/u/0/?tab=mm#inbox?compose=jrjtXJSVwCmpVHlRlvKmqjcwrrfNVdgrhRCDqfbxTSxvdKQwCTrWKKQBfwlfnbSgCVcrvbjx)<br>
+[facebook](https://www.facebook.com/messages/t/100003477559878)
 
