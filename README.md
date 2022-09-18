@@ -28,5 +28,11 @@
 
 
 ## ☎ ติดต่อ contact 
-[Gmail](https://mail.google.com/mail/u/0/?tab=mm#inbox?compose=jrjtXJSVwCmpVHlRlvKmqjcwrrfNVdgrhRCDqfbxTSxvdKQwCTrWKKQBfwlfnbSgCVcrvbjx)<br>
-[facebook](https://www.facebook.com/messages/t/100003477559878)
+[Gmail](https://mail.google.com/mail/) : q3.hahaha@gmail.com
+<br>
+[facebook messages](https://www.facebook.com/messages/t/100003477559878)
+
+
+
+
+
